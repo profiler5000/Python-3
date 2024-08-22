@@ -1,0 +1,30 @@
+items:
+  player: 
+    - mame: "Player"
+    - leben: 10
+    - ausdauer: 1
+    - stärke: 1
+    - geschicklichkeit: 1
+    - intelligenz: 1
+  exp: 
+      - holzhacken: 1
+      - steinhauem: 1
+      - schreinern: 1
+      - mineralienabbauen: 1
+      - alchemie: 1
+      - schmelzen: 1
+  lager:
+      - holz: 0
+      - brennholz: 0
+      - bretter: 0
+      - stein
+      - kupfererz: 0
+      
+          
+        
+      
+      
+
+  
+        
+    

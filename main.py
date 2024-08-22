@@ -1,6 +1,6 @@
 from Ress.loader import data
 
-print(data2["items"])
+print(data["items"])
 #["items"]["player"]["mame"])
 
 
